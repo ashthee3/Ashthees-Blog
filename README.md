@@ -1,5 +1,4 @@
 # Ashthees-Blog
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Ashthee's Blog</title>
