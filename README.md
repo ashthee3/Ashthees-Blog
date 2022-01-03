@@ -35,6 +35,6 @@
 		<li> ghibli music</li>
 		<li> femininity</li>
 <br>
-	<p> <em> learning how to create a website will allow me to learn basic coding skills that will help me for future skills <em> </p>
+	<p style="text align: center;"> <em> learning how to create a website will allow me to learn basic coding skills that will help me for future skills <em> </p>
 </body>
 </html>
