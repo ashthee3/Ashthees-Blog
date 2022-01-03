@@ -36,5 +36,6 @@
 		<li> femininity</li>
 <div>
 	<p> learning how to create a website will allow me to learn basic coding skills that will help me for future skills </p>
+		</div>
 </body>
 </html>
