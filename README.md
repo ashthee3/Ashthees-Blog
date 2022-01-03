@@ -1,7 +1,7 @@
 # Ashthees-Blog
 <html lang="en">
 <head>
-  <title>Ashthee's Blog</title>
+  <strong>Ashthee's Blog</strong>
 </head>
 <body>
 
