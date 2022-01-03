@@ -6,8 +6,7 @@
 <body>
 
 <h1>welcome</h1>
-
-	<p>hello, my name is <b>ashthee naseem</b> and this is my project for 2021-2022 summer holidays!!!</p>
+<p>hello, my name is <b>ashthee naseem</b> and this is my project for 2021-2022 summer holidays!!!</p>
 
 <h2>holiday goals</h2>
 <p>this holiday I planned to achieve a lot of different goals, here is a list of them:</p>
@@ -26,7 +25,7 @@
 </ul>
 <p>INSHALLAH, I achieve it all.. Ameen! </p>
 <br>
-<h1> what i love </h1>
+<h2> what i love </h2>
 	<ol>
 		<li>everskies</li>
 		<li> minecraft</li>
@@ -34,6 +33,5 @@
 		<li> pinterest</li>
 		<li> ghibli music</li>
 		<li> femininity</li>
-	</ol>
 </body>
 </html>
